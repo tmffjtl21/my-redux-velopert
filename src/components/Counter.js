@@ -38,7 +38,7 @@ class Counter extends Component {
                     onSubtract={this.props.handleDecrement}
                     onRandomizeColor={this.setRandomColor}
                 />
-            </div>
+            </div>efefefefe
         );
     }
 }
