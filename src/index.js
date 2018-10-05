@@ -22,19 +22,19 @@ store.subscribe(() => console.log(store.getState()));
 // const unsubscribe = store.subscribe(() => console.log(store.getState()));
 
 // store.dispatch(actions.increment());
-// store.dispatch(actions.increment());
+// store.dispatch(actions.increment());ㄷㅈㅈㅈㅈㅈㅈㅈㄷ
 
 // unsubscribe();  // 상태 변경 시 실행할 함수를 해제 
 
 // store.dispatch(actions.decrement());
-// store.dispatch(actions.setColor([200,200,200]));
+// store.dispatch(actions.setColor([200,200,200]));ㄷㄹㄷㄹㄷㄹ
 // store.dispatch(actions.setColor([210,210,210]));
-
+ㄷㄹㄷㄹㄷㄹ
 
 
 // 여기서 store를 바로 props를 넘겨줘서 사용할 수 있지만 구조가 복잡해지므로 
 // react-redux라는 view binding 도구를 사용함 .
-ReactDOM.render(
+ReactDOM.render(ㄷㄹㄷㄹㄷㄹㄷㄹㄷㄹㄷ
     <Provider store={store} > 
         <App />
     </Provider>, 
