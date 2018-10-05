@@ -21,7 +21,7 @@ export default function counter(state = initialState, action) {
     // if(typeof state === 'undefined'){
     //     return initialState;
     // }
-
+//testteesttesttset 브랜치 테스트
     /* ...  */
     switch(action.type){
         case types.INCREMENT:
